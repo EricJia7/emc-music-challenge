@@ -3,6 +3,8 @@
 
 ![enter image description here](https://i.imgur.com/R6yxbY4.png)
 
+![medium](https://img.shields.io/badge/-Medium-yellow) ![time](https://img.shields.io/badge/%E2%8F%B0-3h-blue)
+
 ## Project
 
 We would like you to build a payment module that helps our customers to complete the checkout process. Users interested in getting premium access to our existing app should be able to choose a plan, enter customer information, read terms and conditions, and select a payment (either credit card or paypal).  
