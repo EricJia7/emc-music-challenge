@@ -9,9 +9,15 @@
 
 We would like you to build a payment module that helps our customers to complete the checkout process. Users interested in getting premium access to our existing app should be able to choose a plan, enter customer information, read terms and conditions, and select a payment (either credit card or paypal).  
 
-The user should be able to go back and forth through the steps as shown in the XD prototype.
+The user should be able to go back and forth through the steps as shown in the mockups.
 
 Users should have a phenomenal (if micro interactions are implemented) or decent (otherwise) user experience on desktop, tablet and mobile devices.
+
+## Mockups
+
+https://livevox-my.sharepoint.com/:u:/p/fvega/EZeQ3Nonk6tBsSCC6Mi73c4BU_4zbRvmz2jXnESBhzT_KA?e=IpE5XP
+
+To read the file download Adobe XD -> https://www.adobe.com/products/xd/pricing/free-trial.html
 
 **XD mockups** don't include tablet and mobile views, so it's up to you to come up with a responsive solution for it.
 
@@ -25,11 +31,11 @@ We strongly encourage you to complete some of the requirements presented below:
 
  ```json
  {
-     role: 'user',
-     name: 'Thomas Anderson',
-     alias: (The One),
-     avatarUrl: 'https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters_opt/p-the-matrix-keanu-reeves.jpg,
-     notifications: 1
+     "role": "user",
+     "name": "Thomas Anderson",
+     "alias": "(The One)",
+     "avatarUrl": "https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters_opt/p-the-matrix-keanu-reeves.jpg",
+     "notifications": 1
 }
 ```
 
@@ -39,71 +45,71 @@ We strongly encourage you to complete some of the requirements presented below:
 
  ```json
  {
-     featureList: [
+     "featureList": [
 			{
-				description: '50 million songs and your entire EMC Music library',
-				personalUse: true,
-				familyUse: true,
+				"description": "50 million songs and your entire EMC Music library",
+				"personalUse": true,
+				"familyUse": true,
 			},
 			{
-				description: 'Listen online or off',
-				personalUse: true,
-				familyUse: true,
+				"description": "Listen online or off",
+				"personalUse": true,
+				"familyUse": true,
 			},
 			{
-				description: 'Stream ad free music and music videos',
-				personalUse: true,
-				familyUse: true,
+				"description": "Stream ad free music and music videos",
+				"personalUse": true,
+				"familyUse": true,
 			},
 			{
-				description: 'Download songs to your library',
-				personalUse: true,
-				familyUse: true,
+				"description": "Download songs to your library",
+				"personalUse": true,
+				"familyUse": true,
 			},
 			{
-				description: 'Access across your devices',
-				personalUse: true,
-				familyUse: true,
+				"description": "Access across your devices",
+				"personalUse": true,
+				"familyUse": true,
 			},
 			{
-				description: 'See what your friends are listening to',
-				personalUse: true,
-				familyUse: true,
+				"description": "See what your friends are listening to",
+				"personalUse": true,
+				"familyUse": true,
 			},
 			{
-				description: 'Original shows, concerts and exclusives',
-				personalUse: true,
-				familyUse: true,
+				"description": "Original shows, concerts and exclusives",
+				"personalUse": true,
+				"familyUse": true,
 			},
 			{
-				description: 'Beats 1 live and online radio shows',
-				personalUse: true,
-				familyUse: true,
+				"description": "Beats 1 live and online radio shows",
+				"personalUse": true,
+				"familyUse": true,
 			},
 			{
-				description: 'Access up to six people',
-				personalUse: false,
-				familyUse: true,
+				"description": "Access up to six people",
+				"personalUse": false,
+				"familyUse": true,
 			},
 			{
-				description: 'A personal account to each family member',
-				personalUse: false,
-				familyUse: true,
+				"description": "A personal account to each family member",
+				"personalUse": false,
+				"familyUse": true,
 			},
 			{
-				description: 'Sharing what you want, when you want - or not at all',
-				personalUse: false,
-				familyUse: true,
+				"description": "Sharing what you want, when you want - or not at all",
+				"personalUse": false,
+				"familyUse": true,
 			},
 			{
-				description: 'Sharing of EMC Music Purchases',
-				personalUse: false,
-				familyUse: true,
+				"description": "Sharing of EMC Music Purchases",
+				"personalUse": false,
+				"familyUse": true,
 			}
 		],
-		plansPrices: {
-			personalUse: 1000,
-			familyUse: 4500,
+		"plansPrices": {
+			"personalUse": 1000,
+			"familyUse": 4500,
 		}
 }
 ```
