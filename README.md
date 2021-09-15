@@ -15,7 +15,7 @@ Users should have a phenomenal (if micro interactions are implemented) or decent
 
 ## Mockups
 
-https://livevox-my.sharepoint.com/:u:/p/fvega/EZeQ3Nonk6tBsSCC6Mi73c4BU_4zbRvmz2jXnESBhzT_KA?e=IpE5XP
+https://tinyurl.com/emc-challenge
 
 To read the file download Adobe XD -> https://www.adobe.com/products/xd/pricing/free-trial.html
 
