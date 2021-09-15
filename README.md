@@ -3,7 +3,7 @@
 
 ![enter image description here](https://i.imgur.com/R6yxbY4.png)
 
-![medium](https://img.shields.io/badge/-Medium-yellow) ![time](https://img.shields.io/badge/%E2%8F%B0-3h-blue)
+![medium](https://img.shields.io/badge/-Medium-yellow) ![time](https://img.shields.io/badge/%E2%8F%B0-4h-blue)
 
 ## Project
 
