@@ -16,7 +16,7 @@ Users should have a phenomenal (if micro interactions are implemented) or decent
 
 We provide you wireframes that show how each view should look like. **Come up with the visuals**, may be following the landing page guidelines.
 
-https://tinyurl.com/emc-wireframes
+https://github.com/felipevegaaraujo/emc-music-challenge/tree/main/emc-payment-module/mocks
 
 **Note:** Wireframes are only for desktop version.
 
